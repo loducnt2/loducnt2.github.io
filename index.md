@@ -1,6 +1,8 @@
-## Chào mừng các bạn đến với CV của tôi
+## Chào mừng các bạn đến với CV của tôi 1
 
 ### **Thông tin chung**
+
+![Avatar](https://photos.google.com/photo/AF1QipPBoWZsnIlgMsx43efqxLJXjNwP2VZtX_hdZ5r6)
 
 ```markdown
 Tên: Lô Minh Đức
