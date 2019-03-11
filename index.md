@@ -16,7 +16,11 @@ Mong muốn được làm việc trong một môi trường trẻ trung, năng �
 
 ### **Học vấn**
 
-9/2015 - 05/2019 | ###Đại học Công Nghiệp Hà Nội  Chuyên ngành: Công nghệ thông tin  Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
+9/2015 - 05/2019 | ```markdown 
+				Đại học Công Nghiệp Hà Nội
+				Chuyên ngành: Công nghệ thông tin
+				Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
+		```
 
 
 ### **Hoạt động**
