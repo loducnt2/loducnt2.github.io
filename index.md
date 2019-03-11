@@ -8,7 +8,7 @@ Vị trí: Lập trình PHP
 Ngày sinh: 04/10/1997
 SĐT: 086.860.3396
 Email: loducnt2@gmail.com
-Địa chỉ: Nhổn, Bắc Từ Liêm, Hà Nội, Việt Nam. dcc cb
+Địa chỉ: Nhổn, Bắc Từ Liêm, Hà Nội, Việt Nam. c
 ```
 ### **Mục tiêu nghề nghiệp**
 
@@ -25,10 +25,10 @@ Mong muốn được làm việc trong một môi trường trẻ trung, năng �
 
 -----|--------|
 9/2015 - 05/2019 | Các hoạt động tình nguyện  
-		   Tình nguyện viên  
-		   Tham gia các hoạt động tình nguyện của đoàn trường.  
-		   Tham gia các hoạt động động viên, tặng quà tới người vô gia cư.  
-		   Hiến máu nhân đạo
+		 | Tình nguyện viên  
+		 | Tham gia các hoạt động tình nguyện của đoàn trường.  
+		 | Tham gia các hoạt động động viên, tặng quà tới người vô gia cư.  
+		 | Hiến máu nhân đạo
 
 ### **Các kỹ năng khác**
 
@@ -51,11 +51,11 @@ Mô tả dự án | Website thương mại điện tử bán giày dép online
 Số lượng thành viên | 2
 Vị trí công việc | Lập trình viên
 Vai trò trong dự án | Phân tích và thiết kế hệ thống
-		      Lập trình các chức năng
-		      Tối ưu code
-		      Sửa lỗi
+		    | Lập trình các chức năng
+		    | Tối ưu code
+		    | Sửa lỗi
  Công nghệ sử dụng | PHP Laravel framework
-		     HTML, CSS, Javascript, Boostrap.
+		   | HTML, CSS, Javascript, Boostrap.
 
 
 
