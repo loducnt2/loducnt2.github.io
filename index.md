@@ -1,8 +1,8 @@
-## Chào mừng các bạn đến với CV của tôi 2
+## Chào mừng các bạn đến với CV của tôi 3
 
 ### **Thông tin chung**
 
-![Ảnh đại diện](https://www.facebook.com/photo.php?fbid=2109537652644907&set=a.1378917009040312&type=3&theater)
+![Ảnh đại diện](https://en.wikipedia.org/wiki/John_Gruber "Markdown Creator")
 ```markdown
 Tên: Lô Minh Đức
 Vị trí: Lập trình PHP
