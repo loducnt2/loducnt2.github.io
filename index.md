@@ -1,8 +1,8 @@
-## Chào mừng các bạn đến với CV của tôi 8
+## Chào mừng các bạn đến với CV của tôi 9
 
 ### **Thông tin chung**
 
-![Atom](https://atom.io/assets/packages-d16d6cc46fd0cf01842409577e782b74.gif)
+![Atom](https://atom.io/assets/packages-d16d6cc46fd0cf01842409577e782b74.gif)  
 ```markdown
 Tên: Lô Minh Đức
 Vị trí: Lập trình PHP
