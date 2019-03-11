@@ -9,7 +9,6 @@ Ngày sinh: 04/10/1997
 SĐT: 086.860.3396
 Email: loducnt2@gmail.com
 Địa chỉ: Nhổn, Bắc Từ Liêm, Hà Nội, Việt Nam 
-
 ```
 ### **Mục tiêu nghề nghiệp**
 
@@ -17,9 +16,7 @@ Mong muốn được làm việc trong một môi trường trẻ trung, năng �
 
 ### **Học vấn**
 
-9/2015 - 05/2019 | ###Đại học Công Nghiệp Hà Nội
-			Chuyên ngành: Công nghệ thông tin
-			* Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
+9/2015 - 05/2019 | ###Đại học Công Nghiệp Hà Nội  Chuyên ngành: Công nghệ thông tin  Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
 
 
 ### **Hoạt động**
