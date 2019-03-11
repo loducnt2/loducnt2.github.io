@@ -39,7 +39,7 @@ Tiếng anh | Có khả năng giao tiếp Tiếng Anh có thể giao tiếp và 
 ### **Sở thích**
 
 * Đọc sách  
-* Thể thao - Thường xuyên tham gia các hoạt động đá bóng của lớp, của  trường tổ chức
+* Thể thao - Thường xuyên tham gia các hoạt động đá bóng của lớp, của  trường tổ chức.
 
 ### **Dự án**
 **Website thương mại điện tử**
