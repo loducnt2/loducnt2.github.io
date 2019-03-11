@@ -2,8 +2,6 @@
 
 ### **Thông tin chung**
 
-![Avatar](https://photos.google.com/photo/AF1QipPBoWZsnIlgMsx43efqxLJXjNwP2VZtX_hdZ5r6)
-
 ```markdown
 Tên: Lô Minh Đức
 Vị trí: Lập trình PHP
