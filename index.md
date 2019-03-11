@@ -3,7 +3,7 @@
 ### **Thông tin chung**
 
 ```markdown
-Tên: **Lô Minh Đức**
+Tên: **Lô Minh Đức 1**
 Vị trí: **Lập trình PHP**
 Ngày sinh: 04/10/1997
 SĐT: 086.860.3396
