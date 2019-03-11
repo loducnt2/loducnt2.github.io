@@ -20,7 +20,6 @@ Mong muốn được làm việc trong một môi trường trẻ trung, năng �
 		   Chuyên ngành: Công nghệ thông tin  
 		   Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
 
-
 ### **Hoạt động**
 
 -----|--------|
@@ -29,7 +28,6 @@ Mong muốn được làm việc trong một môi trường trẻ trung, năng �
 		   Tham gia các hoạt động tình nguyện của đoàn trường.  
 		   Tham gia các hoạt động động viên, tặng quà tới người vô gia cư.  
 		   Hiến máu nhân đạo
-
 
 ### **Các kỹ năng khác**
 
@@ -45,6 +43,7 @@ Thể thao - Thường xuyên tham gia các hoạt động đá bóng của lớ
 ### **Dự án**
 **Website thương mại điện tử**
 (6/2016 -  10/2017)  
+
 -----|--------|
 Khách hàng | Đồ án tốt nghiệp khóa học
 Mô tả dự án | Website thương mại điện tử bán giày dép online
