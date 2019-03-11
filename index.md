@@ -1,4 +1,4 @@
-## Chào mừng các bạn đến với CV của tôi 2
+## Chào mừng các bạn đến với CV của tôi
 
 ### **Thông tin chung**
 
