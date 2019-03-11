@@ -1,8 +1,7 @@
-## Chào mừng các bạn đến với CV của tôi 2
+## Chào mừng các bạn đến với CV của tôi
 
 ### **Thông tin chung**
 
-![Atom](https://www.facebook.com/photo.php?fbid=2291679104400829&set=a.1415214282047320&type=3&theater)  
 ```markdown
 Tên: Lô Minh Đức
 Vị trí: Lập trình PHP
