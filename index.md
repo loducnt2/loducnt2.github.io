@@ -40,14 +40,12 @@ Tiếng anh | Có khả năng giao tiếp Tiếng Anh có thể giao tiếp và 
 
 ### **Sở thích**
 
-`
 Đọc sách
 Thể thao - Thường xuyên tham gia các hoạt động đá bóng của lớp, của  trường tổ chức
-`
 
 ### **Dự án**
-` **Website thương mại điện tử
-(6/2016 -  10/2017)`
+**Website thương mại điện tử**
+(6/2016 -  10/2017)
 -----|--------
 Khách hàng | Đồ án tốt nghiệp khóa học
 Mô tả dự án | 	Website thương mại điện tử bán giày dép online
