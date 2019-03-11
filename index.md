@@ -8,7 +8,7 @@ Vị trí: Lập trình PHP
 Ngày sinh: 04/10/1997
 SĐT: 086.860.3396
 Email: loducnt2@gmail.com
-Địa chỉ: Nhổn, Bắc Từ Liêm, Hà Nội, Việt Nam. c1
+Địa chỉ: Nhổn, Bắc Từ Liêm, Hà Nội, Việt Nam. c2
 ```
 ### **Mục tiêu nghề nghiệp**
 
@@ -38,8 +38,8 @@ Tiếng anh | Có khả năng giao tiếp Tiếng Anh có thể giao tiếp và 
 
 ### **Sở thích**
 
-Đọc sách  
-Thể thao - Thường xuyên tham gia các hoạt động đá bóng của lớp, của  trường tổ chức
+* Đọc sách  
+* Thể thao - Thường xuyên tham gia các hoạt động đá bóng của lớp, của  trường tổ chức
 
 ### **Dự án**
 **Website thương mại điện tử**
