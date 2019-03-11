@@ -17,45 +17,45 @@ Mong muốn được làm việc trong một môi trường trẻ trung, năng �
 ### **Học vấn**
 -----|--------|
 9/2015 - 05/2019 | Đại học Công Nghiệp Hà Nội  
-Chuyên ngành: Công nghệ thông tin  
-Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
+		   Chuyên ngành: Công nghệ thông tin  
+		   Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
 
 
 ### **Hoạt động**
 
 -----|--------|
 9/2015 - 05/2019 | Các hoạt động tình nguyện  
-Tình nguyện viên  
-Tham gia các hoạt động tình nguyện của đoàn trường.  
-Tham gia các hoạt động động viên, tặng quà tới người vô gia cư.  
-Hiến máu nhân đạo
+		   Tình nguyện viên  
+		   Tham gia các hoạt động tình nguyện của đoàn trường.  
+		   Tham gia các hoạt động động viên, tặng quà tới người vô gia cư.  
+		   Hiến máu nhân đạo
 
 
 ### **Các kỹ năng khác**
 
------|--------
+-----|--------|
 Tin học văn phòng | Thành thạo các kỹ năng Tin học văn phòng, các phần mềm Office như Word, Excel, Power Point 					và áp dụng vào trong công việc như làm báo cáo, hợp đồng; xây dựng các biểu đồ, tính 							toán tiền quỹ, tiền lương và làm các slide thuyết trình.
 Tiếng anh | Có khả năng giao tiếp Tiếng Anh có thể giao tiếp và đọc hiểu cơ bản các tài liệu bằng tiếng Anh 					phục vụ cho công việc.
 
 ### **Sở thích**
 
-Đọc sách
+Đọc sách  
 Thể thao - Thường xuyên tham gia các hoạt động đá bóng của lớp, của  trường tổ chức
 
 ### **Dự án**
 **Website thương mại điện tử**
-(6/2016 -  10/2017)
------|--------
+(6/2016 -  10/2017)  
+-----|--------|
 Khách hàng | Đồ án tốt nghiệp khóa học
-Mô tả dự án | 	Website thương mại điện tử bán giày dép online
+Mô tả dự án | Website thương mại điện tử bán giày dép online
 Số lượng thành viên | 2
 Vị trí công việc | Lập trình viên
-Vai trò trong dự án | ` * Phân tích và thiết kế hệ thống
-						* Lập trình các chức năng
-						* Tối ưu code
-						* Sửa lỗi `
- Công nghệ sử dụng | `  * PHP Laravel framework
-						* HTML, CSS, Javascript, Boostrap`
+Vai trò trong dự án | Phân tích và thiết kế hệ thống
+		      Lập trình các chức năng
+		      Tối ưu code
+		      Sửa lỗi
+ Công nghệ sử dụng | PHP Laravel framework
+		     HTML, CSS, Javascript, Boostrap
 
 
 
