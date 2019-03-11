@@ -1,8 +1,8 @@
-## Chào mừng các bạn đến với CV của tôi 4
+## Chào mừng các bạn đến với CV của tôi 5
 
 ### **Thông tin chung**
 
-![Ảnh đại diện](https://en.wikipedia.org/wiki/John_Gruber "Markdown Creator")
+[Ảnh đại diện](https://en.wikipedia.org/wiki/John_Gruber "Markdown Creator")
 ```markdown
 Tên: Lô Minh Đức
 Vị trí: Lập trình PHP
