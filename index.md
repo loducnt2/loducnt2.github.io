@@ -55,7 +55,7 @@ Vai trò trong dự án | Phân tích và thiết kế hệ thống
 		      Tối ưu code
 		      Sửa lỗi
  Công nghệ sử dụng | PHP Laravel framework
-		     HTML, CSS, Javascript, Boostrap
+		     HTML, CSS, Javascript, Boostrap.
 
 
 
