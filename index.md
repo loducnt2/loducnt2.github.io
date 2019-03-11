@@ -15,7 +15,7 @@ Email: loducnt2@gmail.com
 Mong muốn được làm việc trong một môi trường trẻ trung, năng động với nhiều thử thách từ đó lích lũy được thêm kỹ năng và các kinh nghiệm làm việc, Và sau đó nếu được, mong muốn sẽ trở thành nhân viên chính thức của công ty và cống hiến sức lực của mình vào sự phát triển của công ty.
 
 ### **Học vấn**
------|--------
+-----|--------|
 9/2015 - 05/2019 | Đại học Công Nghiệp Hà Nội  
 Chuyên ngành: Công nghệ thông tin  
 Đã tham gia khóa học thiết kế và lập rình web PHP chuyên nghiệp tại ITPlus Academy
@@ -24,11 +24,11 @@ Chuyên ngành: Công nghệ thông tin
 ### **Hoạt động**
 
 -----|--------|
-9/2015 - 05/2019 | Các hoạt động tình nguyện
-					Tình nguyện viên
-					* Tham gia các hoạt động tình nguyện của đoàn trường.
-					* Tham gia các hoạt động động viên, tặng quà tới người vô gia cư.
-					* Hiến máu nhân đạo
+9/2015 - 05/2019 | Các hoạt động tình nguyện  
+Tình nguyện viên  
+Tham gia các hoạt động tình nguyện của đoàn trường.  
+Tham gia các hoạt động động viên, tặng quà tới người vô gia cư.  
+Hiến máu nhân đạo
 
 
 ### **Các kỹ năng khác**
